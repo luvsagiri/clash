@@ -5,11 +5,11 @@ import (
 	"os/signal"
 	"syscall"
 
-	C "github.com/Dreamacro/clash/constant"
-	"github.com/Dreamacro/clash/hub"
-	"github.com/Dreamacro/clash/proxy/http"
-	"github.com/Dreamacro/clash/proxy/socks"
-	"github.com/Dreamacro/clash/tunnel"
+	C "github.com/luvsagiri/clash/constant"
+	"github.com/luvsagiri/clash/hub"
+	"github.com/luvsagiri/clash/proxy/http"
+	"github.com/luvsagiri/clash/proxy/socks"
+	"github.com/luvsagiri/clash/tunnel"
 
 	log "github.com/sirupsen/logrus"
 )

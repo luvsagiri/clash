@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	C "github.com/Dreamacro/clash/constant"
+	C "github.com/luvsagiri/clash/constant"
 )
 
 type HttpAdapter struct {
